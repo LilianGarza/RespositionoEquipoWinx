@@ -1,1 +1,1 @@
-# RespositionoEquipoWinx
+# RespositorioEquipoWinx
